@@ -71,7 +71,7 @@ class WalletCreationActivity : AppCompatActivity() {
         val apiResponseTextView = binding.apiResponseTextView
 
         //Step 1 - REPLACE PLACEHOLDER WITH YOUR APP ID
-        val appId = "" //REPLACE VALUE WITH YOUR APP ID
+        val appId = ""
 
         // Initially, hide the EditText fields and TextView
         apiKeyEditText.visibility = android.view.View.INVISIBLE
